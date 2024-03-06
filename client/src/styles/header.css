@@ -1,0 +1,23 @@
+.hero{
+    width: 100%;
+    height: 50vh;
+   
+}
+
+.header_image{
+    background: linear-gradient( #0066ff8c, #151f2db0 ),  url('../assets/img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center; 
+    top: 0;
+    left: 0;
+    position: sticky;
+}
+
+.hero > .container > h1{
+    font-size: 58px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    color: #fff;
+    position: sticky;
+}

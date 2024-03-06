@@ -1,0 +1,77 @@
+.amplify-form-section{
+    width: 600px !important;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(221, 221, 221);
+    margin-bottom: 0 !important;
+}
+
+.amplify-section-header{
+    font-size: 25px;
+    font-weight: 700;
+    color: #151f2d !important;
+    background-color: #fff !important;
+    padding: 25px 15px !important;
+    border-bottom: 1px solid rgb(221, 221, 221) !important;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    text-align: center;
+}
+
+.amplify-section-body{
+    padding: 0px 15px !important;
+}
+
+.amplify-section-body > div:first-child{
+    height: 450px !important;
+}
+
+.amplify-section-body div::-webkit-scrollbar{
+    padding: 15px 0 !important;
+    display: none;
+}
+
+.amplify-section-body div > div{
+    width: 450px !important;
+    max-width: 100% !important;
+    padding: 20px 15px;
+    margin: 10px 0;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 0.4px;
+    line-height: 1.5;
+    font-size: 15px !important;
+}
+
+.amplify-section-body div div:nth-child(odd){
+    float: left;
+    background: #151f2d;
+    color: #fff;
+    border-radius: 10px 10px 10px 0;
+}
+
+.amplify-section-body div div:nth-child(even){
+    float: right;
+    background: #06f;
+    color: #fff !important;
+    border-radius: 10px 10px 0 10px;
+}
+
+
+
+
+
+.amplify-section-footer{
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+}
+
+.amplify-section-footer button{
+    background-color: #06f !important;
+    color: #fff !important;
+    font-weight: 600;
+    border: none !important;
+}

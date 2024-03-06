@@ -1,0 +1,20 @@
+version: 1
+backend:
+  phases:
+    preBuild:
+      commands:
+        - cd server
+        - npm install 
+    build:
+      commands:
+      - npm run backend
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - cd client
+        - npm install 
+    build:
+      commands:
+      - npm start
+      
