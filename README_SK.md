@@ -1,5 +1,5 @@
 # [Školský projekt] PandemicBot
-### Základy cloudových technológií (Zadanie č.2)
+### Základy cloudových technológií (Zadanie č.2), 2021
 
 ## Meranie úrovne vzdelávania počas pandémie pomocou chat bota
 
