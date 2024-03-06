@@ -15,13 +15,13 @@ The bot is provided by a cloud provider from Amazon (__Amazon Web Services__, la
 
 ## Content
 
-* [Core technologies](#Core technologies)
+* [Core_technologies](#Core technologies)
 * [Frontend](#Backend)
 * [Backend](#backend)
 * [Database](#Database)
 * [Cloud services](#Cloud services)
 * [Access](#Access)
-* [Local setup](#setup)
+* [Local_setup](#setup)
 
   
 ## Core technologies
