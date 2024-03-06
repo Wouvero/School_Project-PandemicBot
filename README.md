@@ -19,7 +19,7 @@ The bot is provided by a cloud provider from Amazon (__Amazon Web Services__, la
 * [Frontend](#Backend)
 * [Backend](#backend)
 * [Database](#Database)
-* [Cloud services](#Cloud services)
+* [Cloud services](#Cloud_services)
   
 ## Core technologies
 - ReactJS - JavaScript framework for frontend development
